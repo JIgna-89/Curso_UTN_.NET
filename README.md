@@ -1,2 +1,3 @@
 # Curso_UTN_.NET
-Diplomatura en .NET de la UTN a distancia (previo a experto universitario en .NET)
+
+**_Diplomatura en .NET de la UTN a distancia_** (previo a Experto universitario en .NET)
